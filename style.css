@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f2;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #ff1493;
+}
+
+img {
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.message {
+    font-size: 18px;
+    margin: 20px;
+}
